@@ -32,8 +32,8 @@ A comprehensive IPL (Indian Premier League) cricket data analysis project featur
 │   ├── ipl_outliers_before.png
 │   ├── ipl_outliers_after.png
 │   ├── ipl_outliers.png
-│   ├── selenium_automation.py
-│   └── web_scraping.py
-│
+│  
+│── selenium_automation.py
+│── web_scraping.py
 └── README.md
 ```
